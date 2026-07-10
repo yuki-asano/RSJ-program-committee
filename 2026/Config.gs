@@ -4,8 +4,8 @@ const CONFIG = {
   sheetGid: 0,
 
   // 必ず実際のURLに差し替えてください
-  answerFormUrl: 'write_url_here',
-  programUrl: 'write_url_here',
+  answerFormUrl: 'https://www.google.com/',
+  programUrl: 'https://www.google.com/',
   // 回答〆切
   deadlineChair1st: '7/17',
 
